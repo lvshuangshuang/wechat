@@ -1,0 +1,7 @@
+<!--pages/audio/audio.wxml-->
+<view id='container'></view>
+<text>pages/audio/audio.wxml</text>
+<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/echarts-all-3.js"></script>
+<script type="text/javascript" src="http://echarts.baidu.com/gallery/vendors/echarts/map/js/china.js"></script>
+
+<!-- //container 为div的id  -->

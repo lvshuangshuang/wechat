@@ -1,0 +1,2 @@
+/* pages/image/image.wxss */
+	.wrong-message{text-align:center;}

@@ -1,0 +1,17 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/logs/logs",
+    "pages/products/products",
+    "pages/image/image",
+    "pages/video/video",
+    "pages/audio/audio",
+    "pages/detial/detial"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#80ebe1",
+    "navigationBarTitleText": "随手查",
+    "navigationBarTextStyle": "white"
+  }
+}
